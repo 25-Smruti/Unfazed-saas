@@ -1,0 +1,10 @@
+{
+  "name": "unfazed-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "install:all": "cd unfazed-backend && npm install && cd ../unfazed-frontend && npm install",
+    "dev:backend": "cd unfazed-backend && npm run dev",
+    "dev:frontend": "cd unfazed-frontend && npm run dev"
+  }
+}

@@ -1,0 +1,6 @@
+node_modules/
+.env
+dist/
+invoices/
+uploads/
+package-lock.json
